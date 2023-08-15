@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<body>
+  <h1><p style="color: red;">Весь персонал модовых Cristalix'a в текстовом виде</p><h1>
+<p style="color: red;">Администратор - EveryMe</p> 
+<p style="color: #C105A7;">Главный модератор - de1ight, ЖамЖар, Xaxare</p>
+<p style="color: #EBD903;">Старший модератор - Душнила09, truespace, Hitmark, NotEnough, SeaStalker</p>
+<p style="color: #F7FF00;">Модератор -  SpiderPig, WTFMoment, Jingers, пападос, шеридан</p>
+<p style="color: #2EFF00;">Младший модератор - Pin, до_смерти, кони_сай</p>
+<p style="color: #30DE9D;">Стажёр - ShadowKillers, ooessa, Каггу, Zorfi</p>
+
+  <style>
+    body {
+      background-color: #808080;
+    }
+  </style>
+</head>
+<body>
